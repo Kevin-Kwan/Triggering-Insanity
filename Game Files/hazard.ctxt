@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=hazard
+comment0.text=\r\n\ \r\n\ @author\ Koolkev246\ a.k.a\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=void\ checkBoundaries()
+comment2.params=x\ xx\ y\ yy
+comment2.target=boolean\ withinArea(int,\ int,\ int,\ int)
+comment3.params=i
+comment3.target=void\ setHp(int)
+comment4.params=
+comment4.target=void\ ClownStop()
+comment5.params=allow
+comment5.target=void\ destroyBullets(boolean)
+comment6.params=skin
+comment6.target=void\ setSkin(java.lang.String)
+comment7.params=
+comment7.target=void\ hurt()
+numComments=8

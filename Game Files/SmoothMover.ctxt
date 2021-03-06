@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SmoothMover
+comment0.text=\r\n\ This\ class\ contains\ two\ methods\ for\ pixel-perfect\ collision-detection\r\n\ \r\n\ @author\ (Busch2207\ (Moritz\ L.))\ \r\n\ @version\ (09.11.2013)\r\n
+comment1.params=
+comment1.target=SmoothMover()
+comment2.params=speed
+comment2.target=SmoothMover(Vector)
+comment2.text=\r\n\ Create\ new\ thing\ initialised\ with\ given\ speed.\r\n
+comment3.params=x\ y
+comment3.target=void\ setLocation(double,\ double)
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\r\n\ Move\ forward\ one\ step.\r\n
+comment6.params=
+comment6.target=void\ stopMove()
+comment7.params=
+comment7.target=boolean\ outOfWorld()
+comment8.params=s
+comment8.target=void\ increaseSpeed(Vector)
+comment8.text=\r\n\ Increase\ the\ speed\ with\ the\ given\ vector.\r\n
+comment9.params=
+comment9.target=Vector\ getSpeed()
+comment9.text=\r\n\ Return\ the\ current\ speed.\r\n
+numComments=10

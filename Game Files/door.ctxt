@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=door
+comment0.text=\r\n\ \r\n\ @author\ Koolkev246\ a.k.a\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ bringImages()
+comment3.params=
+comment3.target=void\ nextLevel()
+numComments=4

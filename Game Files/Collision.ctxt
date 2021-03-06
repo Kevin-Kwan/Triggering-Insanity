@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Collision
+comment0.text=\r\n\ This\ class\ contains\ two\ methods\ for\ pixel-perfect\ collision-detection\r\n\ \r\n\ @author\ (Busch2207\ (Moritz\ L.))\ \r\n\ @version\ (09.11.2013)\r\n
+comment1.params=clss
+comment1.target=java.util.List\ getTouchedObjects(java.lang.Class)
+comment1.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Returns\ a\ List\ of\ all\ Actors,\ that\ are\ touched\ by\ this\ object
+comment2.params=
+comment2.target=boolean\ checkPlayerExistence()
+comment3.params=a\ b\ c\ d
+comment3.target=boolean\ checktriggered(int,\ int,\ int,\ int)
+comment4.params=clss
+comment4.target=boolean\ touch(java.lang.Class)
+comment4.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Return,\ if\ it\ intersects\ an\ actor\ of\ the\ given\ class
+comment5.params=clss
+comment5.target=greenfoot.Actor\ getOneTouchedObject(java.lang.Class)
+comment5.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ It\ returns\ a\ touched\ actor\ of\ the\ given\ class,\ if\ there's\ one\ touched.
+comment6.params=a_big
+comment6.target=boolean\ touch(greenfoot.Actor)
+comment6.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Returns\ true,\ if\ the\ object\ touchs\ the\ given\ Actor
+numComments=7

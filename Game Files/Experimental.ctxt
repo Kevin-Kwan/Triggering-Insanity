@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Experimental
+comment0.text=\r\n\ \r\n\ @author\ Koolkev246\ a.k.a\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=Experimental()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=x\ y\ z\ xx
+comment4.target=void\ moontriggers(int,\ int,\ int,\ int)
+comment5.params=x\ y\ z\ xx
+comment5.target=void\ appletriggers(int,\ int,\ int,\ int)
+comment6.params=x\ y\ z\ xx
+comment6.target=void\ appletriggers2(int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=void\ stopLevelSong()
+comment8.params=
+comment8.target=void\ playLevelSong()
+comment9.params=
+comment9.target=void\ muteHandler()
+numComments=10
