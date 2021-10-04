@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=bird
+comment0.text=\r\n\ \r\n\ @author\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=bird()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ bringImages()
+comment4.params=
+comment4.target=void\ movement()
+numComments=5

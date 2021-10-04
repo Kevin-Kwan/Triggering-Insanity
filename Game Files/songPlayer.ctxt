@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=songPlayer
+comment0.text=\r\n\ \r\n\ @author\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=song
+comment1.target=songPlayer(java.lang.String)
+comment2.params=
+comment2.target=void\ playOnce()
+comment3.params=
+comment3.target=void\ playSong()
+comment4.params=
+comment4.target=void\ stopSong()
+comment5.params=volume
+comment5.target=void\ setLoud(int)
+numComments=6

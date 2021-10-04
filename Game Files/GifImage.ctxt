@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GifImage
+comment0.text=\r\n\ \r\n\ @author\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=img
+comment1.target=GifImage(java.lang.String)
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getCurrentImage()
+numComments=3

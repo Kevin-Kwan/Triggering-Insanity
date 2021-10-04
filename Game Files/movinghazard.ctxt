@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=movinghazard
+comment0.text=\r\n\ \r\n\ @author\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=block\ xspeed\ yspeed\ time\ comeback
+comment1.target=movinghazard(java.lang.String,\ int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=skin
+comment3.target=void\ setSkin(java.lang.String)
+comment4.params=
+comment4.target=boolean\ checkTouching()
+comment5.params=player
+comment5.target=void\ setPlayerOn(Challenger)
+numComments=6

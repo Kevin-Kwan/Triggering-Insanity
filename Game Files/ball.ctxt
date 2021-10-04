@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ball
+comment0.text=\r\n\ \r\n\ @author\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=ball()
+comment2.params=xvel\ yvel\ cannotdie
+comment2.target=ball(int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ rotate()
+comment5.params=x\ y
+comment5.target=void\ doscale(int,\ int)
+numComments=6

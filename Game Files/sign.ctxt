@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sign
+comment0.text=\r\n\ \r\n\ @author\ Kevin\ Kwan\r\n\ @version\ 1.0.0\r\n
+comment1.params=text\ thexsize\ theysize\ thefontsize\ numlines\ font
+comment1.target=sign(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ sign\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
