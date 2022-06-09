@@ -44,3 +44,7 @@ GSMST Junior Engineering Award 2019-2020 <br />
 ## Other Stuff
 Please feel free to let me know if you would like to continue developing this game. You can be a current GSMST student or a random person. <br />
 Contact me regarding questions/comments regarding the code within this repository. <br />
+
+** **
+## Assets
+Please note that I do not own most of the art and/or music. I do not claim that these assets used belong to me. These belong to their respectful owners.
