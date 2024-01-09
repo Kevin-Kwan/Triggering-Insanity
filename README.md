@@ -21,7 +21,7 @@ The game is technically incomplete because there should be a lot more levels cre
 3.) Run the .gfar file that you just downloaded.<br />
 4.) Enjoy playing!<br />
 *GitHub Releases:* <br />
-<a title="*Release v1.0.0*" href="https://github.com/Kevin-Kwan/gsmst-TriggeringInsanityGame/releases/">Click Here to Download! </a>
+<a title="*Release v1.0.0*" href="https://github.com/Kevin-Kwan/Triggering-Insanity-Game/releases/">Click Here to Download! </a>
 
 ** **
 ## Other Stuff
