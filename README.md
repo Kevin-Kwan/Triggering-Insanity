@@ -1,25 +1,8 @@
 # Kevin's Triggering Insanity Game
-<p align="center">
-  <a title="Release" href="https://github.com/Kevin-Kwan/gsmst-TriggeringInsanityGame/releases" target="_blank">
-    <img src="https://img.shields.io/github/release/Kevin-Kwan/gsmst-TriggeringInsanityGame?style=flat-square" alt="Latest Release" />
-  </a>
-  <a title="License" href="https://github.com/Kevin-Kwan/LICENSE/blob/master/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/Kevin-Kwan/LICENSE.svg?style=flat-square" alt="License" />
-  </a>
-</p>
 
 ** **
 # About
-The files in this repository contain a video game made using Greenfoot/Java for Kevin's CSA Project at GSMST during the 2019-2020 junior school year. My CSA Teacher was Mr. Kevin Hare. My code is intentioned to be CLOSED SOURCE, but I guess if you can understand what I've done to get the game working, I guess it's technically open source lol. Good luck trying to figure out what everything does! The game is technically incomplete because there should be a lot more levels created, but the game is sufficient for now. 
-
-** **
-# Video Showcase (scuffed)
-Click on the preview below to watch the video. (Video currently doesn't work because the channel I uploaded the video on got terminated.)<br />
-<br> todo: add screenshots and redo the video <br />
-** **
-# Awards/Accomplishments
-Perfect Score (100) on my project. <br />
-GSMST Junior Engineering Award 2019-2020 <br />
+The game is technically incomplete because there should be a lot more levels created, but the game is sufficient for now. Documentation of functions can definitely be improved, but I currently don't have the time to update them.
 
 ** **
 # Downloads
@@ -42,8 +25,7 @@ GSMST Junior Engineering Award 2019-2020 <br />
 
 ** **
 ## Other Stuff
-Please feel free to let me know if you would like to continue developing this game. You can be a current GSMST student or a random person. <br />
-Contact me regarding questions/comments regarding the code within this repository. <br />
+Please feel free to contact me regarding questions/comments regarding the code within this repository. <br />
 
 ** **
 ## Assets
